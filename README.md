@@ -96,10 +96,6 @@ Welcome to the documentation of our AI Assistant! Our assistant is designed to a
 
 Ensure that all dependencies are installed before running the code.
 
-## 👨‍💻 Contributor:
-
-- Shailesh Gatkul: Developer of the AI Assistant.
-
 ## 📝 Note:
 
 - Replace "YOUR_API_KEY" in the code with your OpenWeatherMap API key to enable weather information retrieval.
